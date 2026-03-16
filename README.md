@@ -62,7 +62,6 @@ Mobile Architect • Android Engineering Manager • IoT Platform Builder
 📱 YI Home
 📱 YI IoT
 📱 Kami Home
-📱 YI Home
 
 
 These platforms power **millions of connected devices globally.**
@@ -111,7 +110,7 @@ These platforms power **millions of connected devices globally.**
 
 ---
 
-# ✍️ Writing
+# ✍️ Latest Medium Articles
 
 I write about:
 
@@ -120,15 +119,8 @@ I write about:
 • IoT Platforms
 • Engineering Leadership
 
-📚 Read my articles
-👉 https://medium.com/@mehulp89
-
----
-
-# ✍️ Latest Medium Articles
-
-<!-- MEDIUM-POST-LIST:START -->
-<!-- MEDIUM-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # 🌍 Beyond Code
 
