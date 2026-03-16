@@ -2,17 +2,18 @@ name: Update Medium Posts
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme-with-medium:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Pull Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@mehulp89"
