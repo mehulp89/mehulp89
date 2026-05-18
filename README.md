@@ -120,11 +120,11 @@ I write about:
 • Engineering Leadership
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Development Is Not Dead — It’s Evolving Faster Than Many Realize](https://medium.com/@mehulp89/android-development-is-not-dead-its-evolving-faster-than-many-realize-c825d965d36b?source=rss-4a2579662fa3------2)
 - [Android + AI in 2026: The Trends Reshaping Mobile Apps Right Now](https://medium.com/@mehulp89/android-ai-in-2026-the-trends-reshaping-mobile-apps-right-now-2368390925e7?source=rss-4a2579662fa3------2)
 - [Android Development in 2026: The Biggest Shifts Every Senior Engineer Must Understand](https://medium.com/@mehulp89/android-development-in-2026-the-biggest-shifts-every-senior-engineer-must-understand-b491fd4e0863?source=rss-4a2579662fa3------2)
 - [Crack the Android Architecture Round: 15 Questions Senior Developers Must Master](https://medium.com/@mehulp89/crack-the-android-architecture-round-15-questions-senior-developers-must-master-895af2505640?source=rss-4a2579662fa3------2)
 - [MVVM vs MVI in Android &lpar;2026&rpar;: Which Architecture Should You Choose?](https://medium.com/@mehulp89/mvvm-vs-mvi-in-android-2026-which-architecture-should-you-choose-d1966250a475?source=rss-4a2579662fa3------2)
-- [Is Native Android Development Still Relevant in 2026? The Honest Truth](https://medium.com/@mehulp89/is-native-android-development-still-relevant-in-2026-the-honest-truth-9d2cfce63c1a?source=rss-4a2579662fa3------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🌍 Beyond Code
