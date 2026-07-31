@@ -120,11 +120,11 @@ I write about:
 • Engineering Leadership
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Android Studio: The Command-Line Skills Every Android Engineer Needs](https://medium.com/@mehulp89/beyond-android-studio-the-command-line-skills-every-android-engineer-needs-bb57fbf726e6?source=rss-4a2579662fa3------2)
 - [Why Meta, DoorDash &amp; TikTok Now Test Android Engineers on System Design](https://medium.com/@mehulp89/why-meta-doordash-tiktok-now-test-android-engineers-on-system-design-11a5beaed3d0?source=rss-4a2579662fa3------2)
 - [Android Development Is Not Dead — It’s Evolving Faster Than Many Realize](https://medium.com/@mehulp89/android-development-is-not-dead-its-evolving-faster-than-many-realize-c825d965d36b?source=rss-4a2579662fa3------2)
 - [Android + AI in 2026: The Trends Reshaping Mobile Apps Right Now](https://medium.com/@mehulp89/android-ai-in-2026-the-trends-reshaping-mobile-apps-right-now-2368390925e7?source=rss-4a2579662fa3------2)
 - [Android Development in 2026: The Biggest Shifts Every Senior Engineer Must Understand](https://medium.com/@mehulp89/android-development-in-2026-the-biggest-shifts-every-senior-engineer-must-understand-b491fd4e0863?source=rss-4a2579662fa3------2)
-- [Crack the Android Architecture Round: 15 Questions Senior Developers Must Master](https://medium.com/@mehulp89/crack-the-android-architecture-round-15-questions-senior-developers-must-master-895af2505640?source=rss-4a2579662fa3------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🌍 Beyond Code
