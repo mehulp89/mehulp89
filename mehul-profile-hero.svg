@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Mehul Patel — Mobile Architect and Engineering Leader</title>
+  <desc id="desc">I build mobile products that scale and engineering teams that keep them scaling. Fourteen years of experience, fourteen million downloads, seventeen-plus engineers across four squads, and release cycles reduced from two weeks to three days.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101F"/>
+      <stop offset="0.56" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#101C35"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F6D365"/>
+      <stop offset="0.52" stop-color="#D4A72C"/>
+      <stop offset="1" stop-color="#B8871B"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94A3B8" fill-opacity="0.12"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="500" rx="28"/></clipPath>
+    <style>
+      .sans { font-family: Inter, "Segoe UI", Arial, sans-serif; }
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+      .orbit { transform-box: fill-box; transform-origin: center; animation: rotate 24s linear infinite; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      @keyframes rotate { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity:.45 } 50% { opacity:1 } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="500" fill="url(#bg)"/>
+    <rect width="1200" height="500" fill="url(#dots)"/>
+    <circle cx="1045" cy="174" r="300" fill="url(#halo)"/>
+    <path d="M0 456C231 408 365 528 642 453C873 390 1007 403 1200 432V500H0Z" fill="#050B16" fill-opacity="0.5"/>
+
+    <rect x="38" y="36" width="1124" height="428" rx="22" fill="#07101F" fill-opacity="0.58" stroke="#CBD5E1" stroke-opacity="0.13" filter="url(#shadow)"/>
+
+    <text x="78" y="86" class="mono" font-size="13" letter-spacing="2.5" fill="#F6D365">MEHUL PATEL</text>
+    <text x="78" y="117" class="sans" font-size="17" font-weight="600" fill="#94A3B8">MOBILE ARCHITECT • ENGINEERING LEADER • FRACTIONAL CTO</text>
+
+    <text x="76" y="188" class="sans" font-size="47" font-weight="800" letter-spacing="-1.4" fill="#F8FAFC">I BUILD MOBILE PRODUCTS</text>
+    <text x="76" y="244" class="sans" font-size="47" font-weight="800" letter-spacing="-1.4" fill="#F8FAFC">THAT SCALE—AND TEAMS</text>
+    <text x="76" y="300" class="sans" font-size="47" font-weight="800" letter-spacing="-1.4" fill="url(#gold)">THAT KEEP THEM SCALING.</text>
+
+    <text x="78" y="341" class="sans" font-size="17" fill="#94A3B8">Mobile × AI × IoT × Real-time video × Engineering leadership</text>
+
+    <g transform="translate(891 86)">
+      <circle cx="117" cy="111" r="103" fill="none" stroke="#334155" stroke-width="1"/>
+      <circle cx="117" cy="111" r="73" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="5 9" class="orbit"/>
+      <circle cx="117" cy="111" r="42" fill="#0B1730" stroke="url(#blue)" stroke-width="2"/>
+      <text x="117" y="107" text-anchor="middle" class="mono" font-size="10" fill="#CBD5E1">BUILD</text>
+      <text x="117" y="123" text-anchor="middle" class="mono" font-size="10" fill="#CBD5E1">SCALE</text>
+      <text x="117" y="139" text-anchor="middle" class="mono" font-size="10" fill="#F6D365">LEAD</text>
+      <circle cx="117" cy="8" r="7" fill="#38BDF8" class="pulse"/>
+      <circle cx="220" cy="111" r="7" fill="#D4A72C" class="pulse"/>
+      <circle cx="117" cy="214" r="7" fill="#818CF8" class="pulse"/>
+      <circle cx="14" cy="111" r="7" fill="#2DD4BF" class="pulse"/>
+      <text x="117" y="-7" text-anchor="middle" class="mono" font-size="9" fill="#7DD3FC">PRODUCT</text>
+      <text x="237" y="115" class="mono" font-size="9" fill="#F6D365">PEOPLE</text>
+      <text x="117" y="237" text-anchor="middle" class="mono" font-size="9" fill="#A5B4FC">PLATFORM</text>
+      <text x="-4" y="115" text-anchor="end" class="mono" font-size="9" fill="#5EEAD4">DELIVERY</text>
+    </g>
+
+    <g transform="translate(78 378)">
+      <rect width="205" height="58" rx="12" fill="#0A192C" stroke="#38BDF8" stroke-opacity="0.25"/>
+      <text x="16" y="23" class="sans" font-size="19" font-weight="800" fill="#F8FAFC">14+ YEARS</text>
+      <text x="16" y="43" class="mono" font-size="9" fill="#64748B">MOBILE ENGINEERING</text>
+    </g>
+    <g transform="translate(297 378)">
+      <rect width="205" height="58" rx="12" fill="#17172A" stroke="#818CF8" stroke-opacity="0.25"/>
+      <text x="16" y="23" class="sans" font-size="19" font-weight="800" fill="#F8FAFC">14M+ DOWNLOADS</text>
+      <text x="16" y="43" class="mono" font-size="9" fill="#64748B">PRODUCT REACH</text>
+    </g>
+    <g transform="translate(516 378)">
+      <rect width="205" height="58" rx="12" fill="#10221F" stroke="#2DD4BF" stroke-opacity="0.25"/>
+      <text x="16" y="23" class="sans" font-size="19" font-weight="800" fill="#F8FAFC">17+ / 4 SQUADS</text>
+      <text x="16" y="43" class="mono" font-size="9" fill="#64748B">ENGINEERING LEADERSHIP</text>
+    </g>
+    <g transform="translate(735 378)">
+      <rect width="205" height="58" rx="12" fill="#241D0D" stroke="#D4A72C" stroke-opacity="0.32"/>
+      <text x="16" y="23" class="sans" font-size="19" font-weight="800" fill="#F8FAFC">2 WEEKS → 3 DAYS</text>
+      <text x="16" y="43" class="mono" font-size="9" fill="#64748B">RELEASE TRANSFORMATION</text>
+    </g>
+    <g transform="translate(954 378)">
+      <rect width="168" height="58" rx="12" fill="#151A28" stroke="#CBD5E1" stroke-opacity="0.18"/>
+      <circle cx="19" cy="21" r="5" fill="#4ADE80" class="pulse"/>
+      <text x="31" y="25" class="mono" font-size="10" fill="#86EFAC">AVAILABLE</text>
+      <text x="16" y="44" class="mono" font-size="9" fill="#64748B">GLOBAL • FRACTIONAL</text>
+    </g>
+  </g>
+</svg>
